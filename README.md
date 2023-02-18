@@ -24,6 +24,11 @@
 <br/>  
 
 
+<div align="center">
+  
+  <img src="programmer.gif"/>
+  </div>
+
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
@@ -144,8 +149,7 @@
             </a></div>  
 
 <br/>  
-
-<div align="center"><img src="Programmer.png" /></div>  
+<br><br>
 
 <br/>  
 
