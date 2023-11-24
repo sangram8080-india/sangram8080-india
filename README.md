@@ -85,13 +85,13 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/rishavanand" target="_blank">
+<a href="https://github.com/sangram8080-india" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/iamrishavanand" target="_blank">
+<a href="https://twitter.com/sangram8080-india" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://dev.to/rishavanand" target="_blank">
+<a href="https://dev.to/sangram8080-india" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/mr-sangram-9b9700202" target="_blank">
@@ -103,8 +103,6 @@
 <a href="https://instagram.com/sangram" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.behance.net/7564895957" target="_blank">
-<img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.youtube.com/user/Google" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
@@ -116,7 +114,7 @@
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=Mrsangram&show_icons=true&count_private=true&hide_border=true" align="left" />  
+<img src="https://github-readme-stats.vercel.app/api?username=sangram8080-india&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
 <br/>  
 
@@ -154,7 +152,7 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Mrsangram&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=sangram8080-india&&style=flat-square" align="center" />
 </div>  
   
 
@@ -162,6 +160,3 @@
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
