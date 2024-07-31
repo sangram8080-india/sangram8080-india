@@ -6,16 +6,14 @@
 </div>  
   
 
-### <div align="center">I'm sangram, a full-time Back end and Frond end developer 👨‍💻 working remotely since 2020 🚀</div>  
+### <div align="center">I'm sangram, a full-time Back-End and Front-end developer 👨‍💻 working remotely since 2020 🚀</div>  
   
 
-- 🔭 I’m currently studying   
+- 🔭 I have done B.tech  CSE(KMCLU University Lucknow)
+  
   
 
-- 🌱 I’m currently learning B.tech CSE  
-  
-
-- ❓ Ask me about anything related to Java and Their Framework  
+- ❓ Ask me about anything related to Java and Their Framework , Javascript 
   
 
 - ⚡ Fun fact: I use tabs over spaces  
