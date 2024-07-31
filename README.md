@@ -1,12 +1,12 @@
 
 
-### Mrsangram  
+### Sangram  K
 <div align="right">
 <img src="Programmer.gif" align="right" style="width: 100%" />
 </div>  
   
 
-### <div align="center">I'm sangram, a full-time Back-End and Front-end developer 👨‍💻 working remotely since 2020 🚀</div>  
+### <div align="center">I'm Sangram K, a full-time Back-End and Front-end developer 👨‍💻 working remotely since 2020 🚀</div>  
   
 
 - 🔭 I have done B.tech  CSE(KMCLU University Lucknow)
