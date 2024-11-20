@@ -1,6 +1,6 @@
 
 
-### Sangram  K
+
 <div align="right">
 <img src="Programmer.gif" align="right" style="width: 100%" />
 </div>  
