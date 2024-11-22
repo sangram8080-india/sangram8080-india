@@ -6,7 +6,7 @@
 </div>  
   
 
-### <div align="center">I'm Sangram K, 👨‍💻 working remotely since 2023 🚀</div>  
+### <div align="center">I'm Sangram K 🚀</div>  
   
 
 - 🔭 I have done B.tech  CSE(KMCLU University Lucknow)
