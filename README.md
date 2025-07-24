@@ -1,160 +1,135 @@
-
-
-
 <div align="right">
-<img src="Programmer.gif" align="right" style="width: 100%" />
+  <img src="Programmer.gif" align="right" style="width: 100%" />
 </div>  
-  
 
-### <div align="center">I'm Sangram K 🚀</div>  
-  
+### <div align="center">Hi there, I'm Sangram Kumar 👨‍💻</div>  
 
-- 🔭 I have done B.tech  CSE(KMCLU University Lucknow)
-  
-  
+- 🎓 B.Tech CSE graduate from KMCLU University, Lucknow  
+- 🚀 Passionate about Java backend development and Full Stack Engineering  
+- 💬 Ask me about Java, Spring Boot, Microservices, REST APIs  
+- ⚡ Fun fact: I prefer tabs over spaces and love solving real-world problems
 
-- ❓ Ask me about anything related to Java and Their Framework , Javascript 
-  
+<br/>
 
-- ⚡ Fun fact: I use tabs over spaces  
-  
+---
 
-<br/>  
+## 🛠️ Tech Stack
 
-
-<div align="center">
-  
-  <img src="programmer.gif"/>
-  </div>
-
-## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
-
+  
 ### Frontend  
 <div align="center">  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
+  <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="50" alt="HTML5"/>  
+  <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="50" alt="CSS3"/>  
+  <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="50" alt="JavaScript"/>  
+  <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" height="50" alt="Bootstrap"/>  
+  <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="50" alt="React.js"/>  
 </div>
 
 </td><td valign="top" width="33%">
-
-
 
 ### Backend  
 <div align="center">  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>  
-<a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50" /></a>  
-<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
+  <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" height="50" alt="Java"/>  
+  <img src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" height="50" alt="Spring Boot"/>  
+  <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="50" alt="MySQL"/>  
+  <img src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" height="50" alt="Oracle"/>  
+  <img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" height="50" alt="PHP"/>  
 </div>
 
 </td><td valign="top" width="33%">
 
-
-
-### DevOps  
+### DevOps & Tools  
 <div align="center">  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+  <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50" alt="Git"/>  
+  <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" height="50" alt="Docker"/>  
+  <img src="https://profilinator.rishav.dev/skills-assets/eclipse-icon.svg" height="50" alt="Eclipse IDE"/>  
+  <img src="https://profilinator.rishav.dev/skills-assets/maven-original-wordmark.svg" height="50" alt="Maven"/>  
+  <img src="https://profilinator.rishav.dev/skills-assets/postman.svg" height="50" alt="Postman"/>  
 </div>
 
 </td></tr></table>  
 
-<br/>  
+---
 
+## 📚 Education
 
-## Connect with me  
+- 🎓 **B.Tech - Computer Science**  
+  *Khwaja Moinuddin Chishti Language University, Lucknow* (2021 – 2024)  
+  ▪️ *8.5 CGPA | Academic Excellence Award | Published Research Thesis*
+
+- 🧑‍💻 **Diploma - Computer Science**  
+  *Government Polytechnic, Saharanpur* (2017 – 2020)
+
+---
+
+## 💼 Experience
+
+- **AI Trainee – Soul.ai** *(Remote | Apr 2025 – Present)*  
+  ▪️ Reviewed Java code for LLM-based training  
+  ▪️ Debugged backend logic & improved performance  
+
+- **Web Development Intern – GRIP Tech** *(Remote | Sept 2020 – Feb 2021)*  
+  ▪️ Created Sales Dashboards and Hotstar Clone UI  
+  ▪️ Implemented real-time chart visualizations  
+
+---
+
+## 🚀 Projects
+
+### 📌 Futuristic Employee Management System  
+*Multi-role enterprise dashboard (Admin/HR/Employee)*  
+**Tech Stack:** React.js, Spring Boot, REST, JWT, WebSockets  
+✅ 60% boost in HR workflow | 500+ user scalability
+
+### 🎨 AI Image Generator Web App  
+*Prompt-based image creation via ML API*  
+**Tech Stack:** Angular, Spring Boot, REST  
+✅ <2s image generation | 1000+ prompts/day handled
+
+### 🛒 E-Commerce Management Panel  
+*Inventory, orders, secure payments, and admin features*  
+**Tech Stack:** Java, React, Spring Boot, MySQL  
+✅ Reduced processing time by 35%
+
+---
+
+## 📜 Certifications
+
+- ✅ **Java Full-Stack Developer** – Naresh i Technologies  
+- ⭐ **HackerRank** – 5★ Certified Software Developer Intern  
+- 🎖️ **Ethical Hacking** – CEH 90001  
+- 🏆 **Smart India Hackathon Finalist** – DRDO 2022
+
+---
+
+## 📬 Connect with Me
+
 <div align="center">
-<a href="https://github.com/sangram8080-india" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/sangram8080-india" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/sangram8080-india" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/mr-sangram-9b9700202" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/sangram" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/sangram" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-</a>
-<a href="https://www.youtube.com/user/Google" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+  <a href="https://linkedin.com/in/mr-sangram-9b9700202"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://github.com/sangram8080-india"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
+  <a href="https://twitter.com/sangram8080-india"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter"></a>
+  <a href="mailto:sangramgkp2020@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"></a>
+</div>
 
-<br/>  
+---
 
+## 📊 GitHub Stats
 
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=sangram8080-india&show_icons=true&count_private=true&hide_border=true" align="left" />  
+![Sangram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sangram8080-india&show_icons=true&hide_border=true&count_private=true)
 
-<br/>  
+---
 
+## ☕ Support Me
 
-## Recent Blog Posts  
 <div align="left">
-            <a href="https://paypal.me/7565895957" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
-                    align="left"
-                />
-            </a>
-            <a href="https://www.buymeacoffee.com/sangram" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="left"
-                />
-            </a>
-                <a href="https://liberapay.com/sangram" target="_blank" style="display: inline-block;">
-                    <img
-                        src="https://img.shields.io/badge/Donate-Liberapay-f6c915.svg?style=flat-square&logo=liberapay" 
-                        align="left"
-                    />
-                </a>
-            <a href="https://ko-fi.com/sangram" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Ko--fi-F16061.svg?style=flat-square&logo=ko-fi" 
-                    align="left"
-                />
-            </a></div>  
+  <a href="https://paypal.me/7565895957"><img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal"/></a>
+  <a href="https://www.buymeacoffee.com/sangram"><img src="https://img.shields.io/badge/Buy Me a Coffee-orange.svg?style=flat-square&logo=buymeacoffee"/></a>
+  <a href="https://ko-fi.com/sangram"><img src="https://img.shields.io/badge/Ko--fi-F16061.svg?style=flat-square&logo=ko-fi"/></a>
+</div>
 
-<br/>  
-<br><br>
-
-<br/>  
+---
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=sangram8080-india&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
-<br />
+  <img src="https://komarev.com/ghpvc/?username=sangram8080-india&&style=flat-square" />
+</div>
