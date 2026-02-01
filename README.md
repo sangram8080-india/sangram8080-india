@@ -8,42 +8,32 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-🎓 **B.Tech CSE** graduate from KMCLU University, Lucknow  
-💻 Passionate about **Java backend development** and **Full Stack Engineering**  
-🌟 Enjoy building **scalable systems** and **solving complex problems**  
-⚡ Fun fact: I prefer **tabs over spaces** and love **open-source contributions**
-
+Experienced Java Backend Developer with expertise in building scalable microservices architecture using Spring Boot ecosystem. Passionate about cloud technologies, system design, and creating efficient backend solutions. Committed to writing clean, maintainable code and following best practices in software development.
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
+<img width="5536" height="917" alt="deepseek_mermaid_20260201_27525d" src="https://github.com/user-attachments/assets/d1b42d9a-a43e-4cfc-9fdb-bd18982297bc" />
 
-### 🔧 Backend Development
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+## Backend Development Stack
+<table align="center"> <tr> <td align="center" width="150"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" alt="Java"/> <br/><strong>Java 11/17</strong> </td> <td align="center" width="150"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="60" height="60" alt="Spring Boot"/> <br/><strong>Spring Boot 3.x</strong> </td> <td align="center" width="150"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microservices/microservices-original.svg" width="60" height="60" alt="Microservices"/> <br/><strong>Microservices</strong> </td> <td align="center" width="150"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" width="60" height="60" alt="Hibernate"/> <br/><strong>Hibernate JPA</strong> </td> </tr> </table>
 
-### 🌐 Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=-for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+## Frontend & Web Technologies
+<table align="center"> <tr> <td align="center" width="150"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="60" height="60" alt="Angular"/> <br/><strong>Angular 14+</strong> </td> <td align="center" width="150"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" alt="React"/> <br/><strong>React.js</strong> </td> <td align="center" width="150"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" height="60" alt="TypeScript"/> <br/><strong>TypeScript</strong> </td> <td align="center" width="150"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60" height="60" alt="Bootstrap"/> <br/><strong>Bootstrap 5</strong> </td> </tr> </table>
 
-### ⚙️ DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=ApacheMaven&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Eclipse IDE](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 
+#Databases & Storage
+<table align="center"> <tr> <td align="center" width="150"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" alt="MySQL"/> <br/><strong>MySQL 8.0</strong> </td> <td align="center" width="150"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60" alt="MongoDB"/> <br/><strong>MongoDB</strong> </td> <td align="center" width="150"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="60" height="60" alt="Oracle"/> <br/><strong>Oracle DB</strong> </td> <td align="center" width="150"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="60" height="60" alt="Redis"/> <br/><strong>Redis Cache</strong> </td> </tr> </table>
+
+## Cloud & DevOps
+<table align="center"> <tr> <td align="center" width="150"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="60" height="60" alt="AWS"/> <br/><strong>AWS Cloud</strong> </td> <td align="center" width="150"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60" alt="Docker"/> <br/><strong>Docker</strong> </td> </tr> </table>
+
+
+## Development Tools
+<table align="center"> <tr> <td align="center" width="150"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" alt="Git"/> <br/><strong>Git</strong> </td> <td align="center" width="150"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="60" height="60" alt="Maven"/> <br/><strong>Maven</strong> </td> <td align="center" width="150"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="60" height="60" alt="Postman"/> <br/><strong>Postman</strong> </td> <td align="center" width="150"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="60" height="60" alt="IntelliJ"/> <br/><strong>IntelliJ IDEA</strong> </td> </tr> </table>
+  
 ---
 
 ## 📊 GitHub Stats
